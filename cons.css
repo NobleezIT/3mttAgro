@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+input{
+    font-size: 30px;
+    width: 70%;
+    height: 30px;
+    border-radius: 15px;
+}
+label{
+    font-size: 30px;
+}
+textarea{
+    font-size: 30px;
+    width: 70%;
+    height: 100px;
+    
+    border-radius: 15px;
+}
+button{
+    height: 40px;
+    width: 70%;
+    border-radius: 15px;
+    background-color: grey;
+    font-size: 28px;
+}
